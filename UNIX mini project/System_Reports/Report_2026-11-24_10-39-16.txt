@@ -1,0 +1,79 @@
+========================================
+       AUTOMATED SYSTEM REPORT
+========================================
+
+1. DATE AND TIME
+Tuesday 24 November 2026 10:39:16 AM IST
+
+2. SYSTEM INFORMATION
+Hostname: admin1-VirtualBox
+Operating System: GNU/Linux
+Kernel Version: 5.15.0-139-generic
+
+3. CPU INFORMATION
+CPU(s):                               1
+On-line CPU(s) list:                  0
+Model name:                           12th Gen Intel(R) Core(TM) i9-12900
+NUMA node0 CPU(s):                    0
+
+4. MEMORY USAGE
+              total        used        free      shared  buff/cache   available
+Mem:          3.8Gi       2.6Gi       157Mi        55Mi       1.0Gi       941Mi
+Swap:         2.0Gi       109Mi       1.9Gi
+
+5. DISK USAGE
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.9G     0  1.9G   0% /dev
+tmpfs           392M  1.7M  390M   1% /run
+/dev/sda5       299G   18G  266G   7% /
+tmpfs           2.0G     0  2.0G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.0G     0  2.0G   0% /sys/fs/cgroup
+/dev/loop0      128K  128K     0 100% /snap/bare/5
+/dev/loop3       74M   74M     0 100% /snap/core22/2955
+/dev/loop1       56M   56M     0 100% /snap/core18/2999
+/dev/loop4       56M   56M     0 100% /snap/core18/3084
+/dev/loop2       74M   74M     0 100% /snap/core22/2216
+/dev/loop5      219M  219M     0 100% /snap/gnome-3-34-1804/93
+/dev/loop6      219M  219M     0 100% /snap/gnome-3-34-1804/72
+/dev/loop7      517M  517M     0 100% /snap/gnome-42-2204/226
+/dev/loop8      532M  532M     0 100% /snap/gnome-42-2204/263
+/dev/loop10      92M   92M     0 100% /snap/gtk-common-themes/1535
+/dev/loop9       13M   13M     0 100% /snap/snap-store/959
+/dev/loop11      66M   66M     0 100% /snap/gtk-common-themes/1515
+/dev/loop13      45M   45M     0 100% /snap/snapd/28254
+/dev/loop12      51M   51M     0 100% /snap/snapd/27738
+/dev/loop14      13M   13M     0 100% /snap/snap-store/1216
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           392M   28K  392M   1% /run/user/1000
+tmpfs           392M   40K  392M   1% /run/user/1002
+
+6. LOGGED-IN USERS
+admin1   :0           2026-11-19 10:41 (:0)
+1GA25AD058 :1           2026-11-24 09:02 (:1)
+
+7. TOP 10 RUNNING PROCESSES
+    PID COMMAND         %CPU %MEM
+    773 mysqld           1.7  9.5
+   3455 Xorg             1.4  3.5
+   3633 gnome-shell      1.3  9.6
+   4087 firefox          0.8 11.6
+   6515 tracker-extract  0.7  0.8
+   6508 tracker-store    0.6  0.6
+   1638 VBoxClient       0.3  0.0
+   3567 VBoxClient       0.3  0.0
+   4336 Isolated Web Co  0.3  7.8
+   1704 gnome-shell      0.2  8.9
+
+8. SYSTEM UPTIME
+ 10:39:16 up  1:39,  2 users,  load average: 0.84, 0.53, 0.22
+
+9. NETWORK INFORMATION
+10.0.2.15 fd00::a025:c3b5:b8b8:4572 fd00::5a9f:758f:f93f:ae38 
+
+10. CURRENT USER
+1GA25AD058
+
+========================================
+   REPORT GENERATED SUCCESSFULLY
+========================================
